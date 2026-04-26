@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Climate modeling, aerosol-cloud interactions"
   location         : "Boulder, CO"
-  employer         : "NSF National Center for Atmospheric Research"
+  employer         : "NSF National Center for\nAtmospheric Research"
   uri              : # URL
   email            : "kgohil@ucar.edu" 
 
