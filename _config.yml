@@ -23,7 +23,7 @@ repository               : "kgohil27/kgohil27.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot_Gohil_2025.jpg"
+  avatar           : "Headshot_Gohil_2025.png"
   name             : "Kanishk Gohil, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Climate modeling, aerosol-cloud interactions"
